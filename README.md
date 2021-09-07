@@ -1,1 +1,1 @@
-# Project-C48
+Hey, guys! I am making a game in which our planet is about to be attacked by an alien race. The only person who can stop them is you. Use your spaceship to destroy the incoming bombs and the enemy spaceships launching them. Use the arrow keys to move left or right and the space key to use your gun. Good luck in your mission as you are the hero who can save Earth.
